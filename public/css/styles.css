@@ -1,0 +1,7 @@
+h1 { font-size: 2em; color: blue; }
+h2 { font-size: 1.5em; color: rgb(23, 14, 116)}
+label {font-size: 1.5 em; color: black;}
+input {border: 1px solid blue }
+
+.btn {font-size: 1em; color: rgb(25, 42, 228) }
+.Login-form {background-color: rgb(192, 193, 249);}
